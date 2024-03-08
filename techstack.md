@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareio/build-your-own-radar](https://github.com/stackshareio/build-your-own-radar)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|46<br/>Tools used|03/01/24 <br/>Report generated|
+|46<br/>Tools used|03/08/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://nodejs.org/">Node.js</a></sub>
   <br>
-  <sub></sub>
+  <sub>v10.15.0</sub>
 </td>
 
 <td align='center'>
@@ -114,7 +114,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://jquery.com/">jQuery</a></sub>
   <br>
-  <sub></sub>
+  <sub>v3.5.0</sub>
 </td>
 
 <td align='center'>
@@ -122,7 +122,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://jqueryui.com/">jQuery UI</a></sub>
   <br>
-  <sub></sub>
+  <sub>v1.12.1</sub>
 </td>
 
 </tr>
@@ -135,7 +135,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://babeljs.io/">Babel</a></sub>
   <br>
-  <sub></sub>
+  <sub>v7.2.2</sub>
 </td>
 
 <td align='center'>
@@ -143,7 +143,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://www.cypress.io/">Cypress</a></sub>
   <br>
-  <sub></sub>
+  <sub>v3.7.0</sub>
 </td>
 
 <td align='center'>
@@ -191,7 +191,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://jasmine.github.io/">Jasmine</a></sub>
   <br>
-  <sub></sub>
+  <sub>v3.3.1</sub>
 </td>
 
 </tr>
@@ -201,7 +201,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://mochajs.org/">Mocha</a></sub>
   <br>
-  <sub></sub>
+  <sub>v5.2.0</sub>
 </td>
 
 <td align='center'>
@@ -217,7 +217,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://webpack.js.org">Webpack</a></sub>
   <br>
-  <sub></sub>
+  <sub>v4.41.2</sub>
 </td>
 
 <td align='center'>
@@ -225,7 +225,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/jsdom/jsdom">jsdom</a></sub>
   <br>
-  <sub></sub>
+  <sub>v15.2.1</sub>
 </td>
 
 <td align='center'>
@@ -246,7 +246,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://lodash.com">Lodash</a></sub>
   <br>
-  <sub></sub>
+  <sub>v4.17.15</sub>
 </td>
 
 <td align='center'>
@@ -267,30 +267,30 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/core](https://www.npmjs.com/@babel/core)|N/A|12/20/18|Saran |MIT|N/A|
-|[babel-loader](https://www.npmjs.com/babel-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[babel-preset-env](https://www.npmjs.com/babel-preset-env)|N/A|12/03/19|Jawahar Suresh Babu |MIT|N/A|
-|[chance](https://www.npmjs.com/chance)|N/A|12/23/18|Saran |MIT|N/A|
-|[cssnano](https://www.npmjs.com/cssnano)|N/A|12/20/18|Saran |MIT|N/A|
-|[d3](https://www.npmjs.com/d3)|N/A|02/25/14|Bruno Trecenti |ISC|N/A|
-|[expose-loader](https://www.npmjs.com/expose-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[file-loader](https://www.npmjs.com/file-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|N/A|12/06/19|Saran |MIT|N/A|
-|[json-loader](https://www.npmjs.com/json-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|N/A|12/06/19|Saran |MIT|N/A|
-|[mochawesome](https://www.npmjs.com/mochawesome)|N/A|12/06/19|Saran |MIT|N/A|
-|[node-sass](https://www.npmjs.com/node-sass)|N/A|12/06/19|Saran |MIT|N/A|
-|[postcss-loader](https://www.npmjs.com/postcss-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[postcss-preset-env](https://www.npmjs.com/postcss-preset-env)|N/A|12/06/19|Saran |CC0-1.0|N/A|
-|[sanitize-html](https://www.npmjs.com/sanitize-html)|N/A|12/23/18|Saran |MIT|N/A|
-|[sass-loader](https://www.npmjs.com/sass-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[standard](https://www.npmjs.com/standard)|N/A|12/06/19|Saran |MIT|N/A|
-|[style-loader](https://www.npmjs.com/style-loader)|N/A|12/06/19|Saran |MIT|N/A|
-|[tar](https://www.npmjs.com/tar)|N/A|02/25/14|Bruno Trecenti |ISC|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|N/A|12/06/19|Saran |MIT|N/A|
-|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|N/A|12/06/19|Saran |MIT|N/A|
-|[xmlhttprequest](https://www.npmjs.com/xmlhttprequest)|N/A|12/23/18|Saran |MIT|N/A|
-|[yargs](https://www.npmjs.com/yargs)|N/A|12/06/19|Saran |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.2.2|12/20/18|Saran |MIT|N/A|
+|[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.4|12/06/19|Saran |MIT|N/A|
+|[babel-preset-env](https://www.npmjs.com/babel-preset-env)|v1.7.0|12/03/19|Jawahar Suresh Babu |MIT|N/A|
+|[chance](https://www.npmjs.com/chance)|v1.0.18|12/23/18|Saran |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.7|12/20/18|Saran |MIT|N/A|
+|[d3](https://www.npmjs.com/d3)|v5.14.2|02/25/14|Bruno Trecenti |ISC|N/A|
+|[expose-loader](https://www.npmjs.com/expose-loader)|v0.7.5|12/06/19|Saran |MIT|N/A|
+|[file-loader](https://www.npmjs.com/file-loader)|v5.0.2|12/06/19|Saran |MIT|N/A|
+|[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|12/06/19|Saran |MIT|N/A|
+|[json-loader](https://www.npmjs.com/json-loader)|v0.5.7|12/06/19|Saran |MIT|N/A|
+|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v0.5.0|12/06/19|Saran |MIT|N/A|
+|[mochawesome](https://www.npmjs.com/mochawesome)|v4.1.0|12/06/19|Saran |MIT|N/A|
+|[node-sass](https://www.npmjs.com/node-sass)|v4.13.0|12/06/19|Saran |MIT|[CVE-2020-24025](https://github.com/advisories/GHSA-r8f7-9pfq-mjmv) (Moderate)<br/>[](https://github.com/advisories/GHSA-9v62-24cr-58cx) (Moderate)|
+|[postcss-loader](https://www.npmjs.com/postcss-loader)|v3.0.0|12/06/19|Saran |MIT|N/A|
+|[postcss-preset-env](https://www.npmjs.com/postcss-preset-env)|v6.5.0|12/06/19|Saran |CC0-1.0|N/A|
+|[sanitize-html](https://www.npmjs.com/sanitize-html)|v1.20.0|12/23/18|Saran |MIT|[CVE-2024-21501](https://github.com/advisories/GHSA-rm97-x556-q36h) (Moderate)<br/>[CVE-2021-26540](https://github.com/advisories/GHSA-mjxr-4v3x-q3m4) (Moderate)<br/>[CVE-2021-26539](https://github.com/advisories/GHSA-rjqq-98f6-6j3r) (Moderate)|
+|[sass-loader](https://www.npmjs.com/sass-loader)|v8.0.0|12/06/19|Saran |MIT|N/A|
+|[standard](https://www.npmjs.com/standard)|v14.3.1|12/06/19|Saran |MIT|N/A|
+|[style-loader](https://www.npmjs.com/style-loader)|v1.0.1|12/06/19|Saran |MIT|N/A|
+|[tar](https://www.npmjs.com/tar)|v4.4.8|02/25/14|Bruno Trecenti |ISC|[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.10|12/06/19|Saran |MIT|N/A|
+|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.9.0|12/06/19|Saran |MIT|N/A|
+|[xmlhttprequest](https://www.npmjs.com/xmlhttprequest)|v1.8.0|12/23/18|Saran |MIT|N/A|
+|[yargs](https://www.npmjs.com/yargs)|v13.3.0|12/06/19|Saran |MIT|N/A|
 
 <br/>
 <div align='center'>
